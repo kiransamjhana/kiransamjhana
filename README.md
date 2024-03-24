@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi there 👋<br>My Name is Kiran Manandhar. I am currently living in Australia. I am a Full Stack Developer speciliaze in MERN. Currently, I'm learning Typescript and NEXT JS to keep my self updated with the recent technology. Along side this, I'm planning to build PTE practice software, which will be available for all the international students free of cost. Moreover, I'm looking for Full Stack Web Developer role. Thank you
+<br>Hi there 👋<br>My Name is Kiran Manandhar. I am currently living in Australia. I am a Full Stack Developer speciliaze in MERN. Currently, I'm learning Typescript and NEXT JS to keep my self updated with the recent technology. Along side this, I'm planning to build immi visa tracker that will include the invitations issued by the federal government and state government just for tracking purpose to help each other students, which will be available for all the international students free of cost. Moreover, I'm looking for Full Stack Web Developer role. Thank you
 
 
 ## 🌐 Socials:
